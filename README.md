@@ -1,14 +1,13 @@
 <h1 align="center">Hi 👋, I'm Emily</h1>
-<p align="center"><img src="profile.png" width="300px"></p>
 <h3 align="center">Cybersecurity professional and software developer</h3>
 
 <br>
 
-- 🔭 I’m currently working on **Machine learning and mental health applications**
+- 🔭 I’m currently working on **offensive security tooling**
 
 - 📝 My website [astralabs.dev](https://astralabs.dev)
 
-- 💬 Ask me about **open-source, Python, C++, React, Linux, Android, VR**
+- 💬 Ask me about **my homelab, networking, Python, Linux**
 
 - 📫 How to reach me **emily@astralabs.dev**
 
