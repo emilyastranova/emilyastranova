@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **offensive security tooling**
 
-- 📝 My website [astralabs.dev](https://astralabs.dev)
+- 📝 My website [emilyastranova.dev](https://emilyastranova.dev)
 
 - 💬 Ask me about **my homelab, networking, Python, Linux**
 
